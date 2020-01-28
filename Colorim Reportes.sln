@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Colorim Reportes", "Colorim Reportes\Colorim Reportes.vbproj", "{B058C858-4E5A-4585-A60C-078D9A814E1A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{FD3AD8FA-9F5A-47AD-9D6E-5F7C5E1D9B73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B058C858-4E5A-4585-A60C-078D9A814E1A}.Debug|x86.ActiveCfg = Debug|x86
+		{B058C858-4E5A-4585-A60C-078D9A814E1A}.Debug|x86.Build.0 = Debug|x86
+		{B058C858-4E5A-4585-A60C-078D9A814E1A}.Release|x86.ActiveCfg = Release|x86
+		{B058C858-4E5A-4585-A60C-078D9A814E1A}.Release|x86.Build.0 = Release|x86
+		{FD3AD8FA-9F5A-47AD-9D6E-5F7C5E1D9B73}.Debug|x86.ActiveCfg = Debug
+		{FD3AD8FA-9F5A-47AD-9D6E-5F7C5E1D9B73}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

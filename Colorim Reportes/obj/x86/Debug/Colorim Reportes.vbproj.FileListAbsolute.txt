@@ -1,0 +1,934 @@
+C:\Users\Pablo Amador Solis\AppData\Local\Temporary Projects\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\AppData\Local\Temporary Projects\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\AppData\Local\Temporary Projects\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\AppData\Local\Temporary Projects\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\AppData\Local\Temporary Projects\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\AppData\Local\Temporary Projects\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\AppData\Local\Temporary Projects\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\AppData\Local\Temporary Projects\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\AppData\Local\Temporary Projects\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\AppData\Local\Temporary Projects\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\documents\visual studio 2010\Projects\Colorim Reportes\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\documents\visual studio 2010\Projects\Colorim Reportes\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\documents\visual studio 2010\Projects\Colorim Reportes\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\documents\visual studio 2010\Projects\Colorim Reportes\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\documents\visual studio 2010\Projects\Colorim Reportes\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\documents\visual studio 2010\Projects\Colorim Reportes\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\documents\visual studio 2010\Projects\Colorim Reportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\documents\visual studio 2010\Projects\Colorim Reportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\documents\visual studio 2010\Projects\Colorim Reportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\documents\visual studio 2010\Projects\Colorim Reportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\documents\visual studio 2010\Projects\Colorim Reportes\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3 - copia\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3 - copia\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3 - copia\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.3 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.4 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.4 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.4 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.4 - copia\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.4 - copia\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.4 - copia\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.4 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.4 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.4 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.4 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.4 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.4 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.4 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.4 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5 - copia\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5 - copia\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5 - copia\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.5 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6 - copia\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6 - copia\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6 - copia\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.6 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.7 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.7 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.7 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.7 - copia\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.7 - copia\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.7 - copia\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.7 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.7 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.7 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.7 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.7 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.7 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.7 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.7 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.7 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.7 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8 - copia\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8 - copia\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8 - copia\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiAlm.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8 - copia\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.8 - copia\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.9\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.9\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.9\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.9\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.9\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.9\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.9\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.9\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiAlm.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.9\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.9\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.9\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.9\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.9\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.9\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.9\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.9\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.9\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.9\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.10\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.10\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.10\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.10\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.10\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.10\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.10\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiAlm.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.10\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.10\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.10\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.10\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.10\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.10\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.10\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.10\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.10\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.10\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.10\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiProDiaInv.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.10\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenDetVen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.10\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreNotCre.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.10\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreAplNotCre.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.10\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.11\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.11\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.11\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.11\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.11\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.11\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.11\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.11\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiAlm.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.11\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.11\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiProDiaInv.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.11\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreAplNotCre.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.11\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.11\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.11\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreNotCre.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.11\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.11\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.11\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.11\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenDetVen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.11\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.11\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.11\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.11\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.11\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenProCol.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiAlm.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiProDiaInv.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreAplNotCre.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreNotCre.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenDetVen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenProCol.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACob.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.12\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBAFam.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiAlm.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiProDiaInv.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACob.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBAFam.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreAplNotCre.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenDetVen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenProCol.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreNotCrePri.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeCliRang.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeCliRan.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.13\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenTab.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiAlm.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiProDiaInv.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACob.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBAFam.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreAplNotCre.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreNotCrePri.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeCliRang.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeCliRan.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenTab.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenCliFic.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenDetVen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenProCol.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.14\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiAlm.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiProDiaInv.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACob.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBAFam.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreAplNotCre.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreNotCrePri.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeCliRang.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeCliRan.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenTab.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenCliFic.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenDetVen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenProCol.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.15\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiAlm.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiProDiaInv.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACob.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBAFam.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreAplNotCre.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreNotCrePri.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeCliRang.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeCliRan.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenTab.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenCliFic.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenDetVen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenProCol.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.16\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiAlm.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiProDiaInv.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACob.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBAFam.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreAplNotCre.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreNotCrePri.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeCliRang.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeCliRan.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenTab.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenCliFic.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenDetVen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenProCol.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.17\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiAlm.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiProDiaInv.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACob.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBAFam.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreAplNotCre.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreNotCrePri.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeCliRang.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeCliRan.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenTab.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenCliFic.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenDetVen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenProCol.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.18\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiAlm.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiProDiaInv.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACob.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBAFam.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreAplNotCre.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreNotCrePri.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeCliRang.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeCliRan.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenTab.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenCliFic.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenDetVen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenProCol.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCue.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCyD.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.19\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreDyC.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiAlm.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiProDiaInv.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACob.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBAFam.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCom.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCue.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCyD.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreDyC.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreAplNotCre.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreNotCrePri.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeCliRang.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeCliRan.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenTab.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenCliFic.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenDetVen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenProCol.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.20\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiAlm.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiProDiaInv.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACob.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBAFam.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCom.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCue.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCyD.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreDyC.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreAplNotCre.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreNotCrePri.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeCliRang.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeCliRan.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenTab.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenCliFic.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenDetVen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenProCol.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.21\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiAlm.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiProDiaInv.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACob.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBAFam.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCom.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCue.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCyD.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreDyC.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreAplNotCre.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreNotCrePri.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeCliRang.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeCliRan.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenTab.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenCliFic.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenDetVen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenProCol.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.22\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiAlm.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiProDiaInv.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACob.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBAFam.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCom.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCue.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreAplNotCre.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreNotCrePri.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeCliRang.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeCliRan.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenTab.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenCliFic.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenDetVen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenProCol.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.23\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComRecMpr.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiAlm.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiProDiaInv.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACob.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBAFam.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComRecMpr.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCom.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCue.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreAplNotCre.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreNotCrePri.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeCliRang.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeCliRan.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenTab.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenCliFic.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenDetVen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenProCol.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.24\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.DirVenAECP.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiAlm.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiGen.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiProDiaInv.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACli.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACob.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBAFam.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComRecMpr.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCom.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCue.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreAplNotCre.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreNotCrePri.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeCliRang.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeRanCli.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeCliRan.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeRanCli.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafRanAgeCli.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenRanAgeCli.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenTab.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.DirVenAECP.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenCliFic.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenDetVen.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenProCol.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.25\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.DirVentasAECPDAT.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiAlm.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiGen.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiProDiaInv.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACli.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACob.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBAFam.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComRecMpr.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConSalBodCos.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCom.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCue.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreAplNotCre.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreNotCrePri.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeCliRang.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeRanCli.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeCliRan.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeRanCli.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafRanAgeCli.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenRanAgeCli.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenTab.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.DirVenAECP.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.DirVentasAECPDAT.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenCliFic.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenDetVen.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenProCol.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.26\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiAlm.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiGen.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiProDiaInv.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACli.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACob.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBAFam.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComRecMpr.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConSalBodCos.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCom.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCue.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreAplNotCre.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreNotCrePri.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeCliRang.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeRanCli.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeCliRan.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeRanCli.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafRanAgeCli.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenRanAgeCli.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenTab.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.DirVenAECP.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.DirVentasAECPDAT.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenCliFic.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenDetVen.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenProCol.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.27\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiAlm.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiProDiaInv.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACob.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBAFam.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComRecMpr.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConSalBodCos.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCom.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCue.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreAplNotCre.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreNotCrePri.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeCliRang.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeCliRan.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenTab.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.DirVenAECP.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.DirVentasAECPDAT.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenCliFic.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenDetVen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenProCol.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.28\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\bin\Debug\Colorim Reportes.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiAlm.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiProDiaInv.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmRecOcC.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACob.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBAFam.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComRecMpr.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConSalBodCos.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCom.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCue.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreAplNotCre.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreNotCrePri.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeCliRang.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeCliRan.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeRanCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenRanAgeCli.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenTab.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.DirVenAECP.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.DirVentasAECPDAT.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenCliFic.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenDetVen.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenProCol.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Colorim Reportes V1.29\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim Reportes.exe
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim Reportes.xml
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim Reportes.pdb
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbprojResolveAssemblyReference.cache
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiAlm.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiGen.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmExiProDiaInv.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.AlmRecOcC.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACli.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBACob.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComMBAFam.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ComRecMpr.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConSalBodCos.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCom.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.ConPreCue.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreAplNotCre.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobDet.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreCobGen.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreNotCrePri.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeCliRang.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenAgeRanCli.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeCliRan.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafAgeRanCli.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenGrafRanAgeCli.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenRanAgeCli.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.CreVenTab.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.DirVenAECP.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.DirVentasAECPDAT.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.load1.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Login.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.MenuR.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenCliFic.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenDetVen.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenFacTalEmb.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenPedDetUni.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.VenProCol.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim_Reportes.Resources.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\obj\x86\Debug\Colorim Reportes.vbproj.GenerateResource.Cache
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\bin\Debug\Colorim Reportes.exe.config
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\bin\Debug\Colorim Reportes.exe
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\bin\Debug\Colorim Reportes.pdb
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\ColorimReportes\Colorim Reportes\bin\Debug\Colorim Reportes.xml
