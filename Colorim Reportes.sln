@@ -1,9 +1,13 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Colorim Reportes", "Colorim Reportes\Colorim Reportes.vbproj", "{B058C858-4E5A-4585-A60C-078D9A814E1A}"
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{FD3AD8FA-9F5A-47AD-9D6E-5F7C5E1D9B73}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupInstall19", "SetupInstall19\SetupInstall19.vdproj", "{750495FD-5B4C-4D83-9929-71840E9FF784}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,8 +21,13 @@ Global
 		{B058C858-4E5A-4585-A60C-078D9A814E1A}.Release|x86.Build.0 = Release|x86
 		{FD3AD8FA-9F5A-47AD-9D6E-5F7C5E1D9B73}.Debug|x86.ActiveCfg = Debug
 		{FD3AD8FA-9F5A-47AD-9D6E-5F7C5E1D9B73}.Release|x86.ActiveCfg = Release
+		{750495FD-5B4C-4D83-9929-71840E9FF784}.Debug|x86.ActiveCfg = Debug
+		{750495FD-5B4C-4D83-9929-71840E9FF784}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADB9201F-19BC-440B-9885-CB5E6F87CFAF}
 	EndGlobalSection
 EndGlobal
